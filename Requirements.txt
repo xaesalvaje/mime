@@ -1,0 +1,4 @@
+OpenAI
+NLTK
+Tensorflow
+Emoji
